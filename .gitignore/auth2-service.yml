@@ -1,0 +1,12 @@
+
+OAuth2AppClientId=Q0trLH0SITX5cJ2w0IWfVrqZc5rjNPlF5xxlzY8VP4RMdnL6vF
+OAuth2AppClientSecret=PyI4w3kG9TvSAfGLjJ66dDBACnRzzcH50owgS2X8
+OAuth2AppRedirectUri=http://localhost:8080/oauth2redirect
+
+#QBO API endpoint
+IntuitAccountingAPIHost=https://sandbox-quickbooks.api.intuit.com
+
+spring.thymeleaf.cache=false
+server.port = 8080
+
+logging.level.org.apache.http=DEBUG
